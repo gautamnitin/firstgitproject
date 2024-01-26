@@ -1,3 +1,3 @@
 this is just sample, Now I am updating after commit.
 adding new line to update in the branch
-Here ius the bug to resolve conflict
+Here ius the bug to resolve conflict, another dev also fixed it
